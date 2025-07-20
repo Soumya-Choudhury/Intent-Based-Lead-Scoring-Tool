@@ -1,7 +1,5 @@
 # Intent-Based-Lead-Scoring-Tool
 
-# 🔍 Intent-Based Lead Prioritization Tool
-
 A lightweight, real-time, AI-enhanced Streamlit app that simulates lead scoring based on hiring activity and content intent signals. Built for the **Caprae Capital AI-Readiness Challenge**.
 
 ---

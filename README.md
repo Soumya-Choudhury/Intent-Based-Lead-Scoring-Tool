@@ -47,12 +47,6 @@ This mimics public signal-based scoring without violating terms of service or da
 
 ---
 
-## 🖥️ Demo
-
-![Demo Screenshot](demo.png) *(Optional if you add one)*
-
----
-
 ## 📂 Files
 
 - `app.py` – Main Streamlit app
@@ -74,9 +68,6 @@ This tool helps:
 ## ✍️ Author
 
 **Soumya Choudhury**  
-📧 soumya.email@example.com  
-🔗 [GitHub](https://github.com/Soumya-Choudhury)
-
 ---
 
 ## 🏁 Future Work

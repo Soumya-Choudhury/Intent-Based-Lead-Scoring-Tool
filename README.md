@@ -65,6 +65,18 @@ This tool helps:
 
 ---
 
+## 🔧 How to Run
+
+Install the required libraries:
+
+```bash
+pip install streamlit pandas
+
+Launch the Streamlit app:
+
+```bash
+streamlit run app.py
+
 ## ✍️ Author
 
 **Soumya Choudhury**  
